@@ -1,0 +1,24 @@
+{
+    "name": "Futbol Runner",
+    "short_name": "Futbol Runner",
+    "description": "Jogo de futebol estilo endless runner! Desvie dos obstáculos e evolua até o Neymar!",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#1a6b3c",
+    "theme_color": "#1a6b3c",
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
